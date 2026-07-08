@@ -61,7 +61,7 @@ class EnterPasswordPage extends StatelessWidget {
 
   Widget _siginText(BuildContext context) {
     return const Text(
-      'Sign in',
+      'Sign in yes',
       style: TextStyle(
           fontSize: 32,
           fontWeight: FontWeight.bold
